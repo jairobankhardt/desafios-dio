@@ -1,2 +1,6 @@
-# desafios-dio
-Repositório para os desafios da DIO.
+# Desafios DIO
+
+Repositório para os desafios propostos pela Digital Innovation One.
+
+### Primeiro desafio
+Criar este repositório. 😜
